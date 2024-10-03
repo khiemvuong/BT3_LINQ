@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\BT.net-3-main\LinqTesting\LinqToObject\bin\Debug\LinqToObject.exe.config
+C:\Users\PC\Desktop\BT.net-3-main\LinqTesting\LinqToObject\bin\Debug\LinqToObject.exe
+C:\Users\PC\Desktop\BT.net-3-main\LinqTesting\LinqToObject\bin\Debug\LinqToObject.pdb
+C:\Users\PC\Desktop\BT.net-3-main\LinqTesting\LinqToObject\obj\Debug\LinqToObject.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\BT.net-3-main\LinqTesting\LinqToObject\obj\Debug\LinqToObject.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\BT.net-3-main\LinqTesting\LinqToObject\obj\Debug\LinqToObject.Form1.resources
+C:\Users\PC\Desktop\BT.net-3-main\LinqTesting\LinqToObject\obj\Debug\LinqToObject.Properties.Resources.resources
+C:\Users\PC\Desktop\BT.net-3-main\LinqTesting\LinqToObject\obj\Debug\LinqToObject.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BT.net-3-main\LinqTesting\LinqToObject\obj\Debug\LinqToObject.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BT.net-3-main\LinqTesting\LinqToObject\obj\Debug\LinqToObject.exe
+C:\Users\PC\Desktop\BT.net-3-main\LinqTesting\LinqToObject\obj\Debug\LinqToObject.pdb
